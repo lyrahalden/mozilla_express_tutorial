@@ -1,3 +1,6 @@
+//default Express app, link to tutorial below
+// https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
+
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
