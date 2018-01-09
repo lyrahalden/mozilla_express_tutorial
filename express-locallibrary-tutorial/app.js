@@ -1,3 +1,11 @@
+//reminder: start app with the command: DEBUG=express-locallibrary-tutorial:* npm start
+//this puts the log in the terminal
+
+//reminder: modify the above command with 'npm run devstart' to run nodemon
+
+//link to this tutorial:
+//https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
